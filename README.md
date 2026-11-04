@@ -6,6 +6,8 @@ Lab work for the Concurrent Development module.
 - Barrier
 - Rendezvous
 - Joe's Labs / Essential Labs
+- Lab1
+- ReusableBarrier
 - Lab Task Checklist
   - lab 1
   - lab 2: concurrency essentials
