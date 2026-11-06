@@ -1,4 +1,4 @@
-\# Barrier Lab
+# Barrier Lab
 
 
 
@@ -6,7 +6,7 @@ This program implements a simple barrier using goroutines, a mutex and a semapho
 
 
 
-\## How to Run
+## How to Run
 
 
 
@@ -18,7 +18,7 @@ go run barrier.go
 
 
 
-\## Expected Result
+## Expected Result
 
 
 
@@ -26,7 +26,7 @@ All goroutines complete Part A before any goroutine starts Part B.
 
 
 
-\## Author
+## Author
 
 
 
